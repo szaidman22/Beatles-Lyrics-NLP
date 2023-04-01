@@ -5,8 +5,14 @@ Analysis of Beatles Lyrics in 13 albums including comparison across albums and c
 
 <img width="732" alt="Screen Shot 2023-04-01 at 11 39 34 AM" src="https://user-images.githubusercontent.com/61389709/229299353-a58e3845-2151-4a9c-b884-4b2322992b51.png">
 
+Heatmap with correlations of count-vectorized words between albums:
+
 <img width="867" alt="Screen Shot 2023-04-01 at 11 40 08 AM" src="https://user-images.githubusercontent.com/61389709/229299560-20f38be0-5dc5-4507-98b8-1ff9592563ba.png">
 
+Count of Lennon and McCartney composed songs across albums:
+
 <img width="786" alt="Screen Shot 2023-04-01 at 11 40 28 AM" src="https://user-images.githubusercontent.com/61389709/229299580-7df697aa-339c-417c-ac92-307d53b53d9a.png">
+
+Visualization of LDA (2 topics) between composers:
 
 <img width="804" alt="Screen Shot 2023-04-01 at 11 40 47 AM" src="https://user-images.githubusercontent.com/61389709/229299581-032bc1ee-119f-49d3-a675-125fe3fc846e.png">

@@ -1,5 +1,5 @@
 # Beatles-Lyrics-NLP
-For Advanced Analytic Techniques taught at Columbia Spring 2023
+For Advanced Analytic Techniques | Columbia Spring 2023
 
 Analysis of Beatles Lyrics in 13 albums including comparison across albums and composers. Experimentation with LDA and topic modeling. Visualizations using Plotly (doesn't render on Github, download html to see, or download Jupyter notebook and run).
 
